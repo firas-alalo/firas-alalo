@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @firas-alalo
+- 👋 Hi, I’m @Firas-Alalo
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning C# & SQL
 - 💞️ I’m looking to collaborate on some exciting projects
