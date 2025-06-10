@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Firas-Alalo
-- 👀 I’m interested in Full-stack software development
-- 🌱 I’m currently working with C#, JaveScript & React
-- 💞️ I’m looking to collaborate on some exciting projects
+- 👋 Hi, my name is Firas
+- 🌱 I’m a .NET & Blazor developer
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/firasalalo/)
 
 
